@@ -2,6 +2,11 @@
 Changelog for package rosbag2_compression
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.15.10 (2024-05-15)
+--------------------
+* [humble] Add default initialization for CompressionOptions (backport `#1539 <https://github.com/ros2/rosbag2/issues/1539>`_) (`#1546 <https://github.com/ros2/rosbag2/issues/1546>`_)
+* Contributors: mergify[bot]
+
 0.15.9 (2024-01-24)
 -------------------
 
